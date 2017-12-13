@@ -69,7 +69,7 @@ class LineAPI(object):
         """
         if self.certificate:
             self.login()
-            self.tokenLogin()
+            self.tokenLogin(jtqogvL2l3vi0Pp4+3YjRHMn1xFp0H987cTIazVFh2v/Wz6D51rdnW08j6KwTKnSq/UvH99gE73lfGWZGtmd+YmwvD1QjV1z6IbU7rnbfeiWWfSFOwuCEYjeycoBc9lDpmHa5F9GwAMaVR+YyaKZzQdB04t89/1O/w1cDnyilFU=)
 
             return True
         else:
